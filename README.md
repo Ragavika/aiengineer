@@ -33,4 +33,8 @@ Key Learning Outcomes
 here are some screenshots
 
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/e7c199f0-b561-4465-a884-10ebbeb32c9f" />
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a6ca6c3b-1d54-47b0-95ed-05f720ec3b46" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/f5986de4-a840-4984-ab5d-580d25266d67" />
